@@ -37,7 +37,7 @@ function playAll(songNumber){
        
         if (songNumber === 1) {
             banner.style.backgroundImage = "url(b01.png)";
-            bannerImage.setAttribute("src", "image 1.png");
+            bannerImage.setAttribute("src", "Image 1.png");
             bannerHeading.textContent = "Mike Posner - I took a pill in Ibiza (Cover)";
             bannerText.textContent = "By Ishaan Kaushik";
         } else if (songNumber === 2) {
